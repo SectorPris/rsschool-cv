@@ -1,0 +1,107 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Roboto';
+    
+}
+
+body{
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+    
+   
+}
+
+.resume {
+    width: 1000px;
+    align-content: center;
+}
+
+h2 {
+    margin-bottom: 0;
+    background: black;
+    color: white;
+    text-indent: 10px;
+    border-radius: 3px;
+    margin-top: 10px;
+}
+
+p{
+    margin-top: 5px;
+    margin-left: 15px;
+    background: url(./2.jpg) no-repeat;
+}
+
+.code {
+    align-content: center;
+    width: 400px;
+    margin-left: 15px;
+    background: #fff5d7;
+}
+
+.contact {
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+
+
+.respons{
+    position: relative; 
+    top: 0; 
+    right: 0;
+    margin-left: 250px;
+    margin-top: -37px;
+    
+}
+
+.l {
+    margin-left: 15px;
+}
+
+.avatar {
+    width: 1000px;
+    height: 1000px;
+    
+}
+
+.head_i {
+    margin-left: 15px;
+    margin-bottom: 0px;
+    
+
+}
+
+.fio{
+    margin-top: 60px;
+    margin-bottom: 0px;
+    
+    
+}
+
+.job{
+    margin-top: 0px;
+    
+}
+
+.info{
+    margin-bottom: 10px;
+}
+
+.logo{
+    width: 200px;
+    height: 200px;
+    align-content: center;
+  
+} 
+
+
+a {
+    color:rgb(58, 58, 58);
+    text-decoration: none;
+}
+
+div{
+    background: rgba(101, 221, 90, 0.6);
+}
